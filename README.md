@@ -9,7 +9,7 @@ Let me tell you a bit more about it...
 ## Dependencies
 There are no dependencies, and I have not used any 3rd party libraries or frameworks. The whole game is made up from the following files:
 
-* `index.html` - the main file
+* `index.html` - the main HTML file, not much happens here
 * `ticket.js` - a class for an individual bingo ticket
 * `bingo.js` - game logic and other js
 * `bingo.css` - some simple css to make it look nice(ish!)
