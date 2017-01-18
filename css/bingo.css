@@ -1,0 +1,72 @@
+html {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.hidden {
+	display: none;
+}
+
+.ticket {
+	padding: 10px;
+	margin: 10px;
+	width: 500px;
+	height: 125px;
+	float: left;
+}
+
+.ticket.green {
+	background: #45a43c;
+}
+
+.ticket.red {
+	background: #c94f4f;
+}
+
+.ticket.blue {
+	background: #3c40a4;
+}
+
+.ticket.orange {
+	background: #ebb034;
+}
+
+.ticket.purple {
+	background: #aa48c2;
+}
+
+.ticket.yellow {
+	background: #dfdf5c;
+}
+
+.ticket .to-go {
+	height: 100%;
+	background: white;
+	width: 100px;
+	float: left;
+	margin-right: 20px;
+	text-align: center;
+}
+
+.ticket .square {
+	background: white;
+	height: 30px;
+	width: 40px;
+	margin: 1px;
+	padding: 10px 0 0 0;
+	float: left;
+	text-align: center;
+}
+
+.ticket .square.marked {
+	background: white;
+	opacity: 0.5;
+}
+
+h1.winner {
+	clear: both;
+	margin: 10px;
+}
+
+p {
+	margin: 10px;
+}
