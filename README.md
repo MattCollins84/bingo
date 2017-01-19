@@ -14,7 +14,7 @@ There are no dependencies, and I have not used any 3rd party libraries or framew
 * `bingo.js` - game logic and other js
 * `bingo.css` - some simple css to make it look nice(ish!)
 
-There is one place where I have taken something I found online (a method to shuffle an array) and used that, I have included a link to where I found it in `bingo.js`.
+There is one place where I have taken something I found online (a method to shuffle an array) and used that, I got it from http://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array/10142256#10142256
 
 ## ES6
 The master branch (and the version on the link above) is written with ES6 JavaScript. I think it should be all supported by modern browsers (certainly the latest version of Chrome!).
