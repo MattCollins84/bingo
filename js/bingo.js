@@ -43,7 +43,6 @@ numbers.forEach((n, i) => {
 })
 
 // generate an Array of 90 numbers (balls)
-// shuffle the balls ready for the first draw
 const balls = [];
 for (var i = 1; i <= 90; i++) {
 	balls.push(i);
